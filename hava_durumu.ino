@@ -1,7 +1,7 @@
 #include <LiquidCrystal.h>
 #include "DHT.h"
 #include "Wire.h"
-#include "Adafruit_BMP085.h" //Basınç Sensörü Kütüphanesi
+#include "Adafruit_BMP085.h" 
 
 #define DHTPIN 2
 #define DHTTYPE DHT11
